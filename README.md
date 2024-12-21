@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-I am Zahra, an aspiring computer engineer who has a passion for creating innovative solutions that address real-world problems through the power of smart and sustainable engineering.
+I am Zahra, a computer engineer who has a passion for creating innovative solutions that address real-world problems through the power of smart and sustainable engineering.
 
 # 🌐 Contact me via:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahraalshehabie8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-alshehabi/)
 
 # 💻 Skills:
-## Programming Languages:
+## Programming Languages, Frameworks & Libraries:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-%239146FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768F.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white) 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -33,7 +37,6 @@ I am Zahra, an aspiring computer engineer who has a passion for creating innovat
 ![MicroPython](https://img.shields.io/badge/MicroPython-%232E5B82.svg?style=for-the-badge&logo=micropython&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-%2310811F.svg?style=for-the-badge&logo=C&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-%23000000.svg?style=for-the-badge&logo=vhdl&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-%23202F3D.svg?style=for-the-badge)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
 # 📊 GitHub Stats:
