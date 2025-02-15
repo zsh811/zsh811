@@ -33,5 +33,4 @@ I am Zahra, a computer engineer who has a passion for creating innovative soluti
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zsh811&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zsh811&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zsh811&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zsh811&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=zsh811&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
